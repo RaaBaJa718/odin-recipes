@@ -24,5 +24,5 @@ This project is licensed under MIT License.
 
 ## Questions
 If you have any questions, you can reach me at:
-  *GitHub: Raabaja718
-  *Email: Ruben.Alston646@gmail.com
+  -*GitHub: Raabaja718
+  -*Email: Ruben.Alston646@gmail.com
